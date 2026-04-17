@@ -41,5 +41,3 @@ Para a gestão deste projeto, utilizei as ferramentas de governança do GitHub p
 </td>
 </tr>
 </table>
-
-*Projeto desenvolvido para fins didáticos no SENAI Jandira.*
